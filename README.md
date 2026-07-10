@@ -32,5 +32,3 @@ Contributor Update
 Contributor Name: Averil Noreen S. Padulip
 
 
-Feature Added:
-- Digital Library Dashboard
