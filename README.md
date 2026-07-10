@@ -24,7 +24,13 @@ Features
 
 Contributor Update
 
+Contributor Name: Charles Adrian O. Evio
+
+
+Contributor Update
+
 Contributor Name: Averil Noreen S. Padulip
+
 
 Feature Added:
 - Digital Library Dashboard
