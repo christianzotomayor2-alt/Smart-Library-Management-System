@@ -20,3 +20,11 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+
+
+Contributor Update
+
+Contributor Name: Averil Noreen S. Padulip
+
+Feature Added:
+- Digital Library Dashboard
