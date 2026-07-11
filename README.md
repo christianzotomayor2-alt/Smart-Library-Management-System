@@ -31,6 +31,11 @@ Contributor Update
 
 Contributor Name: Averil Noreen S. Padulip
 
+Contributor Update
+
+Contributor Name: Aidean S. Licaros
+
+
 
 Feature Added:
 - Digital Library Dashboard
